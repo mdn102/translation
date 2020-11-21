@@ -1,11 +1,11 @@
 {
-  "Hi": {
-      "1": "Chào mừng bạn đến với ứng dụng dịch thuật."
-  },
-  "Where": {
-      "1": "Mã nguồn được sử dụng từ mã nguồn mở."
-  },
-  "From": {
-      "1": "Được sửa đổi và phát triển bởi Minh Nguyen @ 2020."
-  }
+    "Hi": {
+        "1": "Chào mừng bạn đến với ứng dụng dịch thuật."
+    },
+    "Where": {
+        "1": "Ứng dụng được phát triển từ mã nguồn mở."
+    },
+    "From": {
+        "1": "Sửa đổi bởi Minh Nguyen @ 2020."
+    }
 }

@@ -30,7 +30,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h3>{t('Hi.1')}</h3>  <h3>{t('Where.1')}</h3> <h3>{t('From.1')}</h3>
+          <h2>{t('Hi.1')}</h2> <h4>{t('Where.1')}</h4> <h6>{t('From.1')}</h6>
         </p>
       </header>
     </div>

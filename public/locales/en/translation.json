@@ -1,11 +1,11 @@
 {
     "Hi": {
-        "1": "Welcome to Translation application."
+        "1": "Welcome to Translation App."
     },
     "Where": {
-        "1": "The source code is used from the open source."
+        "1": "The application is developed from the open source code."
     },
     "From": {
-        "1": "Modified and developed by Minh Nguyen @2020."
+        "1": "Modified by Minh Nguyen @2020."
     }
 }

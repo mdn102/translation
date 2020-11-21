@@ -1,8 +1,7 @@
 # [Translation]()
 
 
-## Screenshot
-(https://res.cloudinary.com/djhte2ard/image/upload/v1605934520/translation_jiskkm.png)
+## ![Screenshot](https://res.cloudinary.com/djhte2ard/image/upload/v1605934520/translation_jiskkm.png)
 
 
 ### Usage: 
